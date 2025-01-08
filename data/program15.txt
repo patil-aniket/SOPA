@@ -1,0 +1,9 @@
+start
+repeat(i,2,10)
+start
+repeat(j,1,3)
+show j;
+endrepeat
+stop
+endrepeat
+stop

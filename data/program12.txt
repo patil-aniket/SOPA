@@ -1,0 +1,5 @@
+start
+var b;
+b := 4;
+show sqrt(b);
+stop

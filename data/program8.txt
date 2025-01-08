@@ -1,0 +1,4 @@
+start
+var a;
+a := "shailee";
+stop

@@ -1,0 +1,11 @@
+start
+var a;
+var b;
+a := 10;
+b := 20;
+if(a>20)
+show "a is greater";
+else 
+show " b is greater";
+endif
+stop

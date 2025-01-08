@@ -1,0 +1,7 @@
+start
+var a;
+var b;
+a := 4;
+b := 4;
+show (a==b);
+stop

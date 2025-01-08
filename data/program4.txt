@@ -1,0 +1,8 @@
+start 
+var a;
+a := 1;
+unless(a<10)
+show "You can do this !!!" ;
+a := a + 1;
+until
+stop

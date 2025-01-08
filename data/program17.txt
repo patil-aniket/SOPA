@@ -1,0 +1,11 @@
+start 
+var a;
+var r;
+r := 1;
+a := 5;
+unless(a>0)
+r := r*a;
+a := a - 1;
+until
+show r ;
+stop

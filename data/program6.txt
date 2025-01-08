@@ -1,0 +1,8 @@
+start
+var x;
+var z;
+var y;
+x := 5;
+y := 8;
+z := y + 1 + x;
+stop

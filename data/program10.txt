@@ -1,0 +1,11 @@
+start
+var x;
+var y;
+x := 10;
+y := 20;
+if(x!=20)
+show "helloo";
+else 
+show "world";
+endif
+stop

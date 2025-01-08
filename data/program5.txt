@@ -1,0 +1,12 @@
+start
+var a;
+if(true) 
+start
+show "a is greater";
+show "d is greater";
+a := 2 > 3 ? 2 : 1;
+stop
+else 
+show "a is greater";
+endif
+stop

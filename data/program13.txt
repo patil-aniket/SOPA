@@ -1,0 +1,7 @@
+start
+var a;
+var b;
+a := 8;
+b := 2;
+show a%b;
+stop

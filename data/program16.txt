@@ -1,0 +1,8 @@
+start
+var a;
+var b;
+a := (true && false) ? 1 : 0;
+b := (!false || false) ? 2 : 3;
+show a;
+show b;
+stop

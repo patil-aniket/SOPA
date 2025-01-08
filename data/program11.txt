@@ -1,0 +1,11 @@
+start
+var a;
+var b;
+a := true;
+b := false;
+if((a||b)&&!false)
+show "a is greater";
+else 
+show " b is greater";
+endif
+stop

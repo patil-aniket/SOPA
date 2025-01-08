@@ -1,0 +1,96 @@
+SER 502 Contribution - Team 05
+
+Members -
+1. Shailee Jayesh Shah
+2. Vaishnavi Kirtibhai Bhalodi
+3. Aniket Patil
+4. Satyam Shekhar
+
+Milestone 1 :
+
+1. Shailee Jayesh Shah
+      - Exploring and familiarizing with git 
+      - discussing the scope of the project
+      - Setting up a project in git
+
+2. Vaishnavi Kirtibhai Bhalodi
+      -Exploring and familiarizing with git 
+      - discussing the scope of the project
+      - Setting up a project in git
+
+3. Aniket Patil
+      - Exploring and familiarizing with git 
+      - discussing the scope of the project
+      - Setting up a project in git
+      
+4. Satyam Shekhar
+      - Exploring and familiarizing with git 
+      - discussing the scope of the project
+      - Setting up a project in git
+      
+Milestone 2 :
+
+1. Shailee Jayesh Shah
+    - Discussed and implemented grammar in BNF form
+    - Wrote sample programs
+    - Implemented DCG
+    - verified sample programs with the grammar
+
+2. Vaishnavi Kirtibhai Bhalodi
+    - Implementation of a tokenizer according to the grammar of the project
+    - Testing the sample codes with the tokenizer
+    - Construction of a parse tree based on the output of the tokenizer
+
+3. Aniket Patil
+    - Discussed and implemented grammar in BNF form
+    - Wrote sample programs
+    - Implemented DCG
+    - verified sample programs with the grammar
+
+4. Satyam Shekhar
+    - Implementation of a tokenizer according to the grammar of the project
+    - Testing the sample codes with the tokenizer
+    - Construction of a parse tree based on the output of the tokenizer
+
+Milestone 3 :
+
+1. Shailee Jayesh Shah
+    - Made changes to grammar to include string assignments and made it compatible with the evaluator
+    - Wrote sample programs to check the evaluator
+    - Did bug fixes 
+    - Worked on testing the project
+
+2. Vaishnavi Kirtibhai Bhalodi
+    - Implementation of Evaluator
+    - Made changes to parse tree to remove ambiguity
+    - Fixed evaluator issues
+
+3. Aniket Patil
+    - Made changes to grammar to include string assignments and made it compatible with the evaluator
+    - Wrote sample programs to check the evaluator
+    - Did bug fixes 
+    - Worked on testing the project
+
+4. Satyam Shekhar
+    - Implementation of compiler for Mac OS
+    - Make sure the compiler was working correctly with the project
+    - Studied about run time execution and handled runtime for sample programs
+
+Milestone 4 :
+
+1. Shailee Jayesh Shah
+    - Developed additional sample programs to ensure the language operates correctly.
+    - Started working on the presentation activities - PPT, Video, Documentation
+
+2. Vaishnavi Kirtibhai Bhalodi
+    - Developed additional sample programs to ensure the language operates correctly.
+    - Started working on the presentation activities - PPT, Video, Documentation
+
+3. Aniket Patil
+    - Developed additional sample programs to ensure the language operates correctly.
+    - Started working on the presentation activities - PPT, Video, Documentation
+
+4. Satyam Shekhar
+    - Developed additional sample programs to ensure the language operates correctly.
+    - Started working on the presentation activities - PPT, Video, Documentation
+
