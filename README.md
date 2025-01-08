@@ -1,6 +1,6 @@
-## SOPA
-### Description :
-**SOPA is a high-level programming language designed specifically for non-programmers who wish to perform common computational tasks without needing to learn complex syntax or programming concepts. Emphasizing simplicity and readability, SOPA allows users to write and understand code in a natural, human-like language, making it particularly useful for beginners and domain experts needing to conduct data analysis, calculations, or automate tasks with minimal coding knowledge. To enhance accessibility, SOPA will be supported on Mac, utilizing tools like DCG (Definite Clause Grammar) and Yacc (Yet Another Compiler Compiler) for parsing and developing interpreters or compilers, thus enabling users to leverage the language effectively without extensive programming experience.**
+# **SOPA**  
+A **high-level programming language** designed with **non-programmers** in mind, **SOPA** empowers you to perform **common computational tasks** without diving into complex syntax or heavy programming concepts. Built for **readability** and **simplicity**, it’s especially handy for **beginners** or domain experts who need to **analyze data**, **run calculations**, or **automate tasks**—all with minimal coding knowledge.
+
 
 
 ## Build and Run for MAC OS
