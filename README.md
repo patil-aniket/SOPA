@@ -1,5 +1,5 @@
 # **SOPA**  
-A **high-level programming language** designed with **non-programmers** in mind, **SOPA** empowers you to perform **common computational tasks** without diving into complex syntax or heavy programming concepts. Built for **readability** and **simplicity**, it’s especially handy for **beginners** or domain experts who need to **analyze data**, **run calculations**, or **automate tasks**—all with minimal coding knowledge.
+A **high-level programming language** designed with **non-programmers** in mind, **SOPA** empowers you to perform **common computational tasks** without diving into complex syntax or heavy programming concepts. Built for **readability** and **simplicity**, it’s especially handy for **beginners** or domain experts who need to **analyze data**, **run calculations**—all with minimal coding knowledge.
 
 
 
