@@ -14,7 +14,7 @@ chmod +x sopa_runner.sh
 ```bash
 ./sopa_runner.sh /path/to/program.txt
 ```
-#### Replace /path/to/program.txt with the path to the file containing the program file to be tested.
+#### Replace /path/to/program.txt with the path to the file containing the program file that you want to run.
 
 #### Youtube Link
 https://www.youtube.com/watch?v=6YlUf7SXN50
